@@ -17,11 +17,11 @@
 <br/>
 
 
-- 🔭 I’m currently working on JavaScript.
+- 🔭 I’m currently working on TypeScript and JavaScript.
 
-- 🌱 I’m currently learning Node.js And React Frameworks.
+- 🌱 I’m currently learning Nest.js And Go lang.
 
-- 💬 Ask me about JavaScript React  Next.Js MongoDb graphQl. 
+- 💬 Ask me about JavaScript,TypeScript, App Script, CLI, Next.js, Flutter, .Net, React,  Next.Js, MongoDb, graphQl. 
 
 <br/>
 
