@@ -1,57 +1,128 @@
-# Hi I'm  Umesh 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Umesh;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umeshmore45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/umeshmore45?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
+## 🚀 About Me
+```typescript
+const umesh = {
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+    currentFocus: ["TypeScript", "JavaScript", "System Design"],
+    learning: ["Nest.js", "Go", "Microservices"],
+    askMeAbout: ["Web Dev", "API Design", "Database Architecture"],
+    technologies: {
+        frontend: ["React", "Next.js", "Flutter"],
+        backend: ["Node.js", "Nest.js", ".NET"],
+        databases: ["MongoDB", "PostgreSQL"],
+        tools: ["Docker", "Git", "VS Code"]
+    },
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-<div style="display:block;text-align:center" >
+## 💼 Technical Skills
 
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
+      <br>Nginx
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
+## 📊 GitHub Analytics
 
-- 🔭 I’m currently working on TypeScript and JavaScript.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umeshmore45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshmore45&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🌱 I’m currently learning Nest.js And Go lang.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshmore45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=umeshmore45&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-- 💬 Ask me about JavaScript,TypeScript, App Script, CLI, Next.js, Flutter, .Net, React,  Next.Js, MongoDb, graphQl. 
+## 🏆 GitHub Trophies
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umeshmore45&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
 
-![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshmore45&show_icons=true&theme=dark)
+## 📫 Connect With Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshmore45)
-
-<br/>
-
- <a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
- <a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
- <a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
- <a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" title="logo" width="8%" height="8%" style="display:inline" />
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
- <a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
- <a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
-<a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Code_icon-icons.com_56584.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
-<a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
-<a href="" target="_blank" style="display:inline">
-<img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="logo" width="8%" height="8%" style="display:inline" />
-</a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<br/>
-<br/>
+## 💡 Random Dev Quote
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
-#Visitor Count
+---
 
-![Visitor Count](https://profile-counter.glitch.me/{umeshmore45}/count.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  Made with ❤️ by Umesh
+  <br>
+  <i>⭐️ From <a href="https://github.com/umeshmore45">umeshmore45</a></i>
+</p>
